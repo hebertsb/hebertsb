@@ -23,8 +23,6 @@
 
 Soy estudiante de último semestre de Ingeniería Informática y Docente Técnico. Me apasiona crear software moderno y la infraestructura física sobre la que corre. Diseño e instalo redes estructuradas, fibra óptica e infraestructura de telecomunicaciones, y al mismo tiempo desarrollo las aplicaciones Full Stack que corren sobre ellas.
 
-Soy estudiante de último semestre de Ingeniería Informática y Docente Técnico. Me apasiona crear software moderno y la infraestructura física sobre la que corre. Diseño e instalo redes estructuradas, fibra óptica e infraestructura de telecomunicaciones, y al mismo tiempo desarrollo las aplicaciones Full Stack que corren sobre ellas.
-
 ---
 
 ## 🛠️ Mi Stack Tecnológico
