@@ -40,17 +40,18 @@ Soy estudiante de último semestre de Ingeniería Informática y Docente Técnic
 ### ⚙️ Backend & Base de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🌐 Redes & Telecomunicaciones
 <p align="left">
   <img src="https://img.shields.io/badge/fibra%20óptica-%2300B4AB.svg?style=for-the-badge&logo=datacamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/mikrotik-%233B82F6.svg?style=for-the-badge&logo=linksys&logoColor=white" />
-  <img src="https://img.shields.io/badge/cisco%20ccna-%231E3A8A.svg?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/domótica-%23a78bfa.svg?style=for-the-badge&logo=home-assistant&logoColor=white" />
 </p>
 
